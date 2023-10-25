@@ -1,0 +1,25 @@
+
+
+body {
+	background-color: #cccccc;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+table {
+	border-collapse: collapse;
+	margin: 0 auto;
+}
+
+td {
+	padding: 10px;
+	border: 1px solid gray;
+}
+
+/* Collapsing of each question */
+.collapse {
+	background-color: white;
+	border: solid 4px #000; /* Black border */
+}
